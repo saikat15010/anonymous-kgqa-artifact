@@ -142,3 +142,7 @@ After downloading, place the model files under:
 
 ```text
 models/ 
+
+## Demo Explanation
+
+A step-by-step explanation of the demo figures is provided in [`DEMO_DESCRIPTION.md`](DEMO_DESCRIPTION.md).
