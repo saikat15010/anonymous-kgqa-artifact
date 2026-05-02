@@ -141,7 +141,7 @@ Please open the repository's **Releases** section and download the assets from t
 After downloading, place the model files under:
 
 ```text
-models/
+models/ ```
 
 ---
 
