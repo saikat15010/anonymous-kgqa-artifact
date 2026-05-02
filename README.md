@@ -132,9 +132,10 @@ For each question, the demo runs **real model inference** and displays:
 
 ---
 
-```markdown
+## Model Checkpoints
+
 Model checkpoint download instructions are provided in [`MODEL_CHECKPOINTS.md`](MODEL_CHECKPOINTS.md).
-```
+
 
 ## Demo Explanation
 
