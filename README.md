@@ -134,9 +134,7 @@ For each question, the demo runs **real model inference** and displays:
 
 ## Model Checkpoints
 
-Due to file-size constraints, the trained model checkpoints are provided as release assets in this repository.
-
-Please open the repository's **Releases** section and download the assets from the latest release.
+Due to file-size constraints, the trained model checkpoints are provided here: https://drive.google.com/drive/folders/1lo_T8sHkOUcRyf14eLfA6L2KjFq-_Id3?usp=sharing
 
 After downloading, place the model files under:
 
