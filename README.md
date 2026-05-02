@@ -132,15 +132,10 @@ For each question, the demo runs **real model inference** and displays:
 
 ---
 
-## Model Checkpoints
-
-Due to file-size constraints, the trained model checkpoints are provided here: https://drive.google.com/drive/folders/1lo_T8sHkOUcRyf14eLfA6L2KjFq-_Id3?usp=sharing
-
-After downloading, place the model files under:
-
-```text
-models/ 
+```markdown
+Model checkpoint download instructions are provided in [`MODEL_CHECKPOINTS.md`](MODEL_CHECKPOINTS.md).
 ```
+
 ## Demo Explanation
 
 A step-by-step explanation of the demo figures is provided in [`DEMO_DESCRIPTION.md`](DEMO_DESCRIPTION.md).
