@@ -145,6 +145,4 @@ models/ ```
 
 ---
 
-## License
 
-This project is for research purposes. Please contact the author for licensing inquiries.
