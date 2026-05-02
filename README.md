@@ -115,7 +115,7 @@ For each question, the demo runs **real model inference** and displays:
   └────────────────────────────────────────────────┘
 ```
 
-**Privacy guarantee**: Raw triples and relation embeddings never leave their silo. Only entity embeddings are transmitted.
+**Data boundary**: Raw triples and relation embeddings are not shared by the silos in this demo. 
 
 ---
 
