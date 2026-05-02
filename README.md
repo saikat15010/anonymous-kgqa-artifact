@@ -130,10 +130,18 @@ For each question, the demo runs **real model inference** and displays:
 | Training Loss | Margin ranking with hardest-negative mining |
 | Candidate Filtering | 2-hop neighbors (hop-1 cap: 50, hop-2 cap: 20) |
 
-The models are saved in this link: 
-
 ---
 
+## Model Checkpoints
+
+Due to file-size constraints, the trained model checkpoints are provided as release assets in this repository.
+
+Please open the repository's **Releases** section and download the assets from the latest release.
+
+After downloading, place the model files under:
+
+```text
+models/
 
 ---
 
